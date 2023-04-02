@@ -1,0 +1,6 @@
+PyPDF2
+pillow 
+tk 
+PdfReader 
+pdf2image 
+pyinstaller
